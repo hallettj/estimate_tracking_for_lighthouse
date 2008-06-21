@@ -19,6 +19,29 @@
 //
 // --------------------------------------------------------------------
 //
+// == USAGE:
+//
+// Record estimates for your Lighthouse tickets somewhere in the title of
+// the ticket. Accepted units are days, hours and minutes. Here are some
+// examples of ticket titles that will work:
+//
+//         Ticket with an estimate (2d4h30m)
+//         Ticket with an estimate (3.5 hours)
+//         Ticket with an estimate 30 minutes 1 day
+//         2hrs 20min Ticket with an estimate
+//
+// With the estimate tracking script running, totals for estimates will
+// be displayed on the milestone page. Each project member will have the
+// total estimate of the amount of work they have left for the milestone
+// displayed next to their name. Only estimates from open tickets are
+// counted toward the total; so don't worry if there are closed tickets
+// around that still have estimates on them.
+//
+// If you do some work on a ticket, but don't quite finish it - or if you
+// just get better information about how long a task will take - you will
+// probably want to update the estimate. To do that, just update the
+// title of the ticket to reflect the new estimate.
+//
 // ==UserScript==
 // @name          Estimate Tracking for Lighthouse
 // @namespace     http://sitr.us/
