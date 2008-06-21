@@ -1,7 +1,7 @@
 // Estimate Tracking for Lighthouse
 // version 0.1 BETA!
 // 2008-06-20
-// Copyright (c) 2008, Jesse Hallett
+// Copyright (c) 2008, Jesse Hallett <hallettj@gmail.com>
 // Released under the GPL license
 // http://www.gnu.org/copyleft/gpl.html
 //
